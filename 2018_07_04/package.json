@@ -1,0 +1,14 @@
+{
+  "name": "2018_07_04",
+  "version": "1.0.0",
+  "description": "- 「テストはいいぞ」のワークショップ的なヤツ用ファイルです。",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "mocha": "5.2.0",
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {}
+}
