@@ -1,0 +1,14 @@
+{
+  "name": "2018_08_08",
+  "version": "1.0.0",
+  "description": "for GAOGAO study group at 2018-08-08",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mass-min",
+  "license": "ISC",
+  "dependencies": {
+    "nightmare": "^3.0.1"
+  }
+}
