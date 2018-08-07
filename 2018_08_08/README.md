@@ -17,9 +17,9 @@
 
 構成
 ---
-package.json                npmでのパッケージ管理用ファイル
-package-lock.json           npmでのバージョン指定用ファイル
-README.md                   このファイル
-scripts
-|- get-latest-post-title.js ワークショップでいじる用ファイル
-|- sample.js                ワークショップの解答的なファイル
+- package.json                npmでのパッケージ管理用ファイル
+- package-lock.json           npmでのバージョン指定用ファイル
+- README.md                   このファイル
+- scripts
+  - get-latest-post-title.js ワークショップでいじる用ファイル
+  - sample.js                ワークショップの解答的なファイル
