@@ -14,3 +14,12 @@
 
 ### 必要なパッケージをインストール
 - `2018_08_08`ディレクトリに移動、ディレクトリのルートで`npm install`
+
+構成
+---
+package.json                npmでのパッケージ管理用ファイル
+package-lock.json           npmでのバージョン指定用ファイル
+README.md                   このファイル
+scripts
+|- get-latest-post-title.js ワークショップでいじる用ファイル
+|- sample.js                ワークショップの解答的なファイル
